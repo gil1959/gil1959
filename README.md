@@ -25,7 +25,7 @@
  - 🎓 **Informatics Engineering student** at Universitas Bengkulu (2024–2028)  
 - 🤖 **AI Enthusiast** passionate about meaningful tech  
 - 🌐 Managing websites: [Relaxday Spa](https://relaxdayspa.com.au) & [Allana Massage & Spa](https://allanamassageandspa.com.au) (AU)  
-- 👨‍💻 Freelancer on [Fastwork](https://fastwork.id/gilcalonbillioner), Upwork & Fiverr  
+- 👨‍💻 Freelancer on [Fastwork](https://fastwork.id/user/gillky?source=web_marketplace_profile-menu_profile), Upwork & Fiverr  
 - 🚀 Building a *tech empire* to empower digital communities  
 - ⚡ I *never stop learning*, experimenting, and growing!
 
