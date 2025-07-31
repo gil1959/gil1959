@@ -68,8 +68,8 @@
   <a href="https://linkedin.com/in/ragilkurniawan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge&logo=firefox-browser" />
+  <a href="https://gilporto.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-CONNECT-orange?style=for-the-badge&logo=firefox-browser" />
   </a>
   <a href="mailto:ragilkurniawan174@gmail.com">
     <img src="https://img.shields.io/badge/Email-ragilkurniawan-red?style=for-the-badge&logo=gmail" />
