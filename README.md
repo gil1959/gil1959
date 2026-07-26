@@ -21,13 +21,13 @@
 
 ### PLAYER PROFILE
 
-Mahasiswa Teknik Informatika di Universitas Bengkulu yang juga aktif sebagai freelance fullstack developer untuk klien lokal maupun luar negeri. Saat ini menjabat Sekretaris Penristek HIMATIF, sekaligus membangun PernahGa, produk SaaS berbasis AI yang sudah memiliki pengguna berbayar.
+Mahasiswa Teknik Informatika di Universitas Bengkulu yang juga aktif sebagai freelance fullstack developer untuk klien lokal maupun luar negeri. Sedang membangun [PernahGa](https://pernahga.com), produk SaaS berbasis AI yang sudah memiliki pengguna berbayar.
 
 ### QUEST LOG
 
 | Peran | Detail |
 |---|---|
-| **Founder, PernahGa** | Membangun dan mengelola SaaS berbasis AI dari nol hingga memiliki pengguna berbayar. |
+| **Founder, [PernahGa](https://pernahga.com)** | Membangun dan mengelola SaaS berbasis AI dari nol hingga memiliki pengguna berbayar. |
 | **Remote Developer untuk klien Australia** | Pernah menangani website bisnis Australia secara remote, termasuk [Relaxday Spa](https://relaxdayspa.com.au) dan [Allana Massage & Spa](https://allanamassageandspa.com.au/), lintas zona waktu. |
 | **Freelancer di Fastwork / Upwork / Fiverr** | Mengerjakan proyek web development untuk berbagai klien lokal dan internasional. |
 | **Sekretaris Penristek HIMATIF** | Mengelola notulensi, program kerja, dan koordinasi antar divisi. |
