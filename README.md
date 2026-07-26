@@ -28,7 +28,7 @@ Mahasiswa Teknik Informatika di Universitas Bengkulu yang juga aktif sebagai fre
 | Peran | Detail |
 |---|---|
 | **Founder, PernahGa** | Membangun dan mengelola SaaS berbasis AI dari nol hingga memiliki pengguna berbayar. |
-| **Remote Developer untuk klien Australia** | Mengelola website bisnis Australia secara remote, termasuk [Relaxday Spa](https://relaxdayspa.com.au) dan [Allana Massage & Spa](https://allanamassageandspa.com.au/), lintas zona waktu. |
+| **Remote Developer untuk klien Australia** | Pernah menangani website bisnis Australia secara remote, termasuk [Relaxday Spa](https://relaxdayspa.com.au) dan [Allana Massage & Spa](https://allanamassageandspa.com.au/), lintas zona waktu. |
 | **Freelancer di Fastwork / Upwork / Fiverr** | Mengerjakan proyek web development untuk berbagai klien lokal dan internasional. |
 | **Sekretaris Penristek HIMATIF** | Mengelola notulensi, program kerja, dan koordinasi antar divisi. |
 
